@@ -6,3 +6,5 @@ This mod gives a boost to all counselor timed tasks:
 - Is important to say that this boost will only apply to human characters, not for AI Characters. So you and other players will be the only ones to have this boost.
  -->
 This mod makes the base "Faster Council Tasks" mod, "More Game Rules" compatible. Load both mods BEFORE this one.
+
+If you are using the Auto Conversion/Promote mods, you DO NOT need their MGR compatibility patch. This mod covers both sets of compatibility at no impact to the rest of the mod/compat.
