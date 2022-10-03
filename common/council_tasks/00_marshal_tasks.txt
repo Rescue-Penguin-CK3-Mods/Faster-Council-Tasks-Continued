@@ -509,6 +509,28 @@ task_increase_control = {
 		monthly_county_control_change_add = 1
 		scale = marshal_increase_control_total
 	}
+	
+	
+	on_cancel_task_county = {
+		if = {
+			limit = {
+				auto_increase_control_compatibility = yes
+				NOT = {
+					scope:county = {
+						custom_description = {
+							text = potential_county_control_task_trigger
+							OR = {
+								has_county_corruption_trigger = yes
+								county_control < full_county_control
+							}
+						}
+						county_control_rate_modifier > 0
+					}
+				}
+			}
+			marshal_throw_move = yes
+		}
+	}
 
 	on_finish_task_county = {
 		if = {
