@@ -5,6 +5,11 @@ This mod gives a boost to all counselor timed tasks:
 - Almost all timed tasks will finish in 1 month, but it may change a bit depending on the task.
 - Is important to say that this boost will only apply to human characters, not for AI Characters. So you and other players will be the only ones to have this boost.
 
+Compatibility -
+- Auto Convert Culture, Faith, and Control. Complete compatibility.
+- More Game Rules - Download my compatibility patch (TODO: Add link)
+- Councillor experience traits - TODO
+
 Any Bug you found please comment below, or post as an issue on my github(https://github.com/Rescue-Penguin-CK3-Mods/Faster-Council-Tasks-Continued) and I will try my best to fix it.
 
 New Developer Report - 2nd of October 2022
