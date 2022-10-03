@@ -8,6 +8,6 @@ This mod gives a boost to all counselor timed tasks:
 Compatibility -
 - Auto Convert Culture, Faith, and Control. Complete compatibility.
 - More Game Rules - Download my compatibility patch (TODO: Add link)
-- Councillor experience traits - TODO
+- Councillor experience traits - A work in Progress.
 
 If you have found a Bug or compatibility issue please comment below, or post as an issue on my github(https://github.com/Rescue-Penguin-CK3-Mods/Faster-Council-Tasks-Continued) and I will try my best to fix it.
